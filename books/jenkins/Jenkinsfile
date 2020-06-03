@@ -11,8 +11,8 @@ pipeline {
 
     environment {
         //TODO: Edit these vars as per your env
-        DEV_PROJECT = "jxcatalux-books-dev"
-        STAGE_PROJECT = "jxcatalux-books-stage"
+        DEV_PROJECT = "caojeff-books-dev"
+        STAGE_PROJECT = "caojeff-books-stage"
         APP_GIT_URL = "https://github.com/jxcatalux/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs"
 
